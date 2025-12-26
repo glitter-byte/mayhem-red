@@ -1,3 +1,5 @@
+<img src="https://postimg.cc/BjFN9F4k" alt="payloads screen from virtual pager ui with theme applied">
+
 Editing these files within /lib/pager/themes/ will have no effect. Do not place new themes there.
 
 If you would like to modify the theme, create a new one by copying the wargames theme to /root/themes with a new directory name
