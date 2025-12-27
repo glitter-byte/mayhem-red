@@ -11,35 +11,31 @@ You should be able to select it from the settings menu Settings > General > Them
 
 Dashboard
 
-<img width="759" height="537" alt="alerts" src="https://github.com/user-attachments/assets/1d976356-8069-463c-a9b8-e7ae7f426b5c" />
+<img width="747" height="528" alt="new_main_dashboard" src="https://github.com/user-attachments/assets/4087757a-a3bf-4a06-8d7c-c610a560f529" />
 
 Alerts Screen
 
-<img width="780" height="552" alt="alertsscreen" src="https://github.com/user-attachments/assets/da47be3f-98cc-4dc5-ae10-22cb66d418ad" />
+<img width="744" height="531" alt="new_alerts_dash" src="https://github.com/user-attachments/assets/46204af7-5626-489b-aaa9-8a40bfff86f9" />
 
 Alerts Select
 
-<img width="756" height="537" alt="authcapture" src="https://github.com/user-attachments/assets/7b413974-be84-4f4e-95bc-77b18f2b3d77" />
+<img width="746" height="538" alt="new_alerts_payload_select" src="https://github.com/user-attachments/assets/2faaee1f-faff-424d-b9d6-e9c00190d2a4" />
 
 Payloads
 
-<img width="771" height="551" alt="payloads" src="https://github.com/user-attachments/assets/5fd0690e-8814-4f14-8500-99682747dca4" />
+<img width="744" height="530" alt="new_payloads_dash" src="https://github.com/user-attachments/assets/1f52445f-8985-41e5-9154-f90f39b86784" />
 
 Launch Payload
 
-<img width="767" height="540" alt="launch payload" src="https://github.com/user-attachments/assets/01369675-60e9-45eb-a302-4ef27e61253b" />
+<img width="744" height="530" alt="new_payloads_conf" src="https://github.com/user-attachments/assets/d820bb05-82ce-47f2-8283-846a79eed74c" />
 
 Recon
 
-<img width="756" height="539" alt="recon" src="https://github.com/user-attachments/assets/40881da6-3279-4e40-afc3-0edc28c7ce1a" />
+<img width="743" height="528" alt="new_recon" src="https://github.com/user-attachments/assets/b8705457-8e2e-4765-927f-ed943c922c32" />
 
 Settings
 
-<img width="755" height="540" alt="settings" src="https://github.com/user-attachments/assets/89520547-b521-4cbf-8f2d-2b13ecb4a0b5" />
-
-Option Select
-
-<img width="760" height="545" alt="select menus" src="https://github.com/user-attachments/assets/82e4a73d-82d5-4498-84c1-1a19b205f5b8" />
+<img width="744" height="530" alt="new_settings" src="https://github.com/user-attachments/assets/ae20fc3d-44b2-4245-9259-84789b7a75c5" />
 
 
 
