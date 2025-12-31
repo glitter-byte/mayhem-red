@@ -6,7 +6,7 @@
   "background": {
     "layers": [
       { "image_path": "assets/alerts_dashboard/alerts_bg.png", "x": 0, "y": 0 },
-      { "text": "Alerts", "text_size": "large", "text_color_palette": "white", "x": 5 }
+      { "text": "Alerts", "text_size": "large", "text_color_palette": "red", "x": 20, "y": 10 }
     ],
     "background_color": { "r": 0, "g": 0, "b": 0 }
   },
@@ -19,7 +19,7 @@
         {
           "id": "auth captured",
           "layers": [
-            { "text": "Evil AP Auth Captured", "x": 160, "y": 60, "text_color_palette": "white" }
+            { "text": "Evil AP Auth Captured", "x": 160, "y": 60, "text_color_palette": "medium_gray" }
           ],
           "selected_layers": [
             { "text": "Evil AP Auth Captured", "x": 160, "y": 60, "text_color_palette": "red" },
@@ -34,7 +34,7 @@
         {
           "id": "deauth flood",
           "layers": [
-            { "text": "Deauth Flood Detected", "x": 160, "y": 87, "text_color_palette": "white" }
+            { "text": "Deauth Flood Detected", "x": 160, "y": 87, "text_color_palette": "medium_gray" }
           ],
           "selected_layers": [
             { "text": "Deauth Flood Detected", "x": 160, "y": 87, "text_color_palette": "red" },
@@ -49,7 +49,7 @@
         {
           "id": "new client",
           "layers": [
-            { "text": "New Client Connected", "x": 160, "y": 118, "text_color_palette": "white" }
+            { "text": "New Client Connected", "x": 160, "y": 118, "text_color_palette": "medium_gray" }
           ],
           "selected_layers": [
             { "text": "New Client Connected", "x": 160, "y": 118, "text_color_palette": "red" },
@@ -64,7 +64,7 @@
         {
           "id": "handshake capture",
           "layers": [
-            { "text": "Handshake Captured", "x": 160, "y": 146, "text_color_palette": "white" }
+            { "text": "Handshake Captured", "x": 160, "y": 146, "text_color_palette": "medium_gray" }
           ],
           "selected_layers": [
             { "text": "Handshake Captured", "x": 160, "y": 146, "text_color_palette": "red" },

@@ -5,7 +5,7 @@
     "cache_canvases": false,
     "background": {
       "layers": [
-        { "image_path": "assets/optiondialog/option_dialog_bg_windowed.png", "x": 8, "y": 12 },
+        { "image_path": "assets/optiondialog/option_dialog_bg_windowed.png", "x": 8, "y": 5 },
         { "variable_name": "$_INPUT_NAME", "x": 35, "y": 25, "use_template": "string_title" },
         { "text":  "Size:", "text_size":  "small", "x": 330, "y": 25 },
         { "variable_name": "$_LIST_SIZE", "x": 340, "y": 40, "use_template": "list_count" },

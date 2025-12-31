@@ -12,7 +12,7 @@
   },
   "background": {
     "layers": [
-      { "image_path": "assets/alert_dialog_bg_term_blue.png", "x": 30, "y": 0 }
+      { "image_path": "assets/alert_dialog_bg_term.png", "x": 10, "y": 0 }
     ]
   },
   "pages": [
@@ -320,11 +320,16 @@
             { "text": "Restart Device", "x": 40, "text_color_palette": "red" }
           ],
           "target": "debug_function_restart_device"
-        },
+        }
+      ]
+    },
+    {
+      "page_index": 3,
+      "menu_items": [
         {
           "id": "mirror",
           "x": 110,
-          "y": 190,
+          "y": 20,
           "layers": [
             { "variable_name": "$_MIRRORED_SCREEN", "use_template": "toggle" },
             { "text": "Flip Screen", "x": 40, "text_color_palette": "red" }

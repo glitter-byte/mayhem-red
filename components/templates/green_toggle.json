@@ -6,6 +6,6 @@
   ],
   "disabled": [
     { "image_path": "assets/toggle/disabled/toggle_disabled_bg.png", "x": 0, "y": 4, "recolor_palette": "dark_red" },
-    { "image_path": "assets/toggle/disabled/circle.png","x": 2, "y": 6, "recolor_palette":  "dark_red" }
+    { "image_path": "assets/toggle/disabled/circle.png","x": 2, "y": 6, "recolor_palette":  "red" }
   ]
 }

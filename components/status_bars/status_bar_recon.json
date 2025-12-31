@@ -6,16 +6,16 @@
   },
   "status_bar_items": {
     "Time": {
-      "x": 400,
-      "y": 7,
+      "x": 395,
+      "y": 13,
       "layers": {
         "default": []
       },
       "recolor_palette": "red"
     },
     "Battery": {
-      "x": 346,
-      "y": 7,
+      "x": 345,
+      "y": 13,
       "layers": {
         "discharging":  [{ "image_path": "assets/statusbar/dashboard_battery_text.png",       "x": 4, "y": -2 }],
         "charging_25":  [{ "image_path": "assets/statusbar/dashboard_battery_charge_25.png",  "x": 4, "y": -2 }],
@@ -26,8 +26,8 @@
       }
     },
     "FrequencyIndicators": {
-      "x": 315,
-      "y": 5,
+      "x": 317,
+      "y": 11,
       "layers": {
         "2":   [{ "image_path": "assets/statusbar/ghz_2.png" }],
         "25":  [{ "image_path": "assets/statusbar/ghz_25.png" }],
@@ -40,8 +40,8 @@
       }
     },
     "Brightness": {
-      "x": 282,
-      "y": 5,
+      "x": 286,
+      "y": 11,
       "layers": {
         "15":  [{ "image_path": "assets/statusbar/dashboard_brightness_2.png" }],
         "25":  [{ "image_path": "assets/statusbar/dashboard_brightness_3.png" }],
@@ -51,8 +51,8 @@
       }
     },
     "PCAP": {
-      "x": 249,
-      "y": 5,
+      "x": 251,
+      "y": 11,
       "layers": {
         "on":  [{ "image_path": "assets/statusbar/pcap.png", "recolor_palette":  "red"}],
         "off": [{ "image_path": "assets/statusbar/pcap.png", "recolor_palette": "gray" }]
@@ -60,7 +60,7 @@
     },
     "DB": {
       "x": 216,
-      "y": 5,
+      "y": 11,
       "layers": {
         "on":  [{ "image_path": "assets/statusbar/database.png" }],
         "off": [{ "image_path": "assets/statusbar/database.png", "recolor_palette": "gray" }]
@@ -68,7 +68,7 @@
     },
     "GPS": {
       "x": 183,
-      "y": 4,
+      "y": 10,
       "layers": {
         "on":   [{ "image_path": "assets/statusbar/gps.png" }],
         "off":  [{ "image_path": "assets/statusbar/gps.png", "recolor_palette": "gray" }]
@@ -76,7 +76,7 @@
     },
     "Wigle": {
       "x": 144,
-      "y": 4,
+      "y": 10,
       "layers": {
         "on":  [{ "image_path": "assets/statusbar/wigle.png", "x": 0, "y": 0 }],
         "off": [{ "image_path": "assets/statusbar/wigle.png", "x": 0, "y": 0, "recolor_palette": "gray" }]
